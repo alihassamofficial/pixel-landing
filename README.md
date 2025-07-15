@@ -31,4 +31,5 @@ responsive-landing-page/
 ## 📲 Live Demo
 
 Check out the live version here:  
-👉 👉 [View Live Website](https://pixel-landing-lywegnc09-hassams-projects-013f0ea0.vercel.app/)
+👉 👉 [View Live Website](https://pixel-landing-nine.vercel.app/)
+    
